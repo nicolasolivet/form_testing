@@ -1,0 +1,6 @@
+D:\flacorandom\Desktop\practicas\form_solution\domain\bin\Debug\domain.dll
+D:\flacorandom\Desktop\practicas\form_solution\domain\bin\Debug\domain.pdb
+D:\flacorandom\Desktop\practicas\form_solution\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+D:\flacorandom\Desktop\practicas\form_solution\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+D:\flacorandom\Desktop\practicas\form_solution\domain\obj\Debug\domain.dll
+D:\flacorandom\Desktop\practicas\form_solution\domain\obj\Debug\domain.pdb
